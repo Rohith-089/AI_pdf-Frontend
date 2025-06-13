@@ -2,3 +2,4 @@ fitz==0.0.1.dev2
 httpx==0.28.1
 streamlit==1.45.1
 transformers==4.52.3
+python-3.10.12
