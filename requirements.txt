@@ -1,5 +1,5 @@
-pymupdf==1.24.2
-httpx==0.28.1
-streamlit==1.45.1
-transformers==4.52.3
+streamlit
+PyMuPDF
+httpx
+transformers
 torch
